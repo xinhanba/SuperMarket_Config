@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-dev
+    user:
+      username: eureka_heyizhe_dev
+      password: eureka_password_dev
